@@ -1,0 +1,8 @@
+NON-DISCLOSURE AGREEMENT
+Between [Company Name]_____ ("Disclosing Party") and [Recipient Name]_____ ("Receiving Party")
+
+1. [Confidentiality]_____: The Receiving Party agrees to maintain the confidentiality of all disclosed information.
+2. [Term]_____: This agreement shall remain in effect for [Number]_____ years.
+3. [Governing Law]_____: This agreement shall be governed by the laws of [State/Country]_____. 
+4. [IP Rights]_____: All intellectual property rights remain with the Disclosing Party.
+5. [Termination]_____: Either party may terminate this agreement with [Notice Period]_____ written notice.
