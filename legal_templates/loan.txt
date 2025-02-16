@@ -1,0 +1,94 @@
+LOAN AGREEMENT
+This Loan Agreement (“Agreement”) is made on this ___ day of __________ 20___, by and between:
+[Name of the Lender], having its registered office / principal place of business at [Address], hereinafter referred to as the “Lender” (which expression shall, unless repugnant to the context, mean and include its successors and permitted assigns),
+AND
+[Name of the Borrower / Company], a company incorporated under the Companies Act, 2013 (or the relevant prevailing law), having its registered office at [Address], hereinafter referred to as the “Borrower” (which expression shall, unless repugnant to the context, mean and include its successors and permitted assigns).
+[Name of the Guarantor], an individual/a company having its address at [Address], hereinafter referred to as the “Guarantor” (which expression shall, unless repugnant to the context, mean and include their heirs, successors, legal representatives, or permitted assigns, as applicable).
+The Lender, the Borrower, and the Guarantor are hereinafter collectively referred to as the “Parties” and individually as a “Party.”
+
+1. Loan & Disbursement
+1.1 Loan Amount: The Lender agrees to lend to the Borrower, and the Borrower agrees to borrow from the Lender, a principal sum of INR [_________] (“Loan”).
+1.2 Disbursement: The Lender shall disburse the Loan amount in one or more tranches, as mutually agreed, to the Borrower’s bank account (details to be provided by the Borrower).
+
+2. Interest
+2.1 Interest Rate: The Borrower shall pay interest on the outstanding principal of the Loan at the rate of ____% per annum (“Interest Rate”).
+2.2 Interest Payment Frequency: Interest shall be calculated on the daily outstanding principal balance and be payable quarterly  on [or before] the due date(s) specified in Annexure A (the “Repayment Schedule”).
+2.3 Penal Interest: In the event of default in payment of any installment of principal or interest on the due date(s) as per the Repayment Schedule, the Borrower shall be liable to pay penal interest at the rate of 18% per annum on the overdue amount, from the date of default until the date of actual payment.
+
+3. Repayment & Prepayment
+3.1 Tenure: The Loan shall be for a period of 24 months or as adjusted in accordance with the agreed Repayment Schedule.
+3.2 Repayment: The Borrower shall repay the principal amount of the Loan in accordance with the Repayment Schedule annexed hereto (Annexure A).
+3.3 Prepayment: The Borrower may, at its discretion, prepay the Loan in part or in full at any time without incurring any prepayment penalties. In case of any such prepayment:
+The Borrower shall give 15 days prior written notice to the Lender.
+The Repayment Schedule shall be revised accordingly, if partial prepayment is made.
+
+4. Security: FD Lien Marking
+4.1 Fixed Deposit: As a security for due repayment of the Loan and accrued interest, the Borrower has created / shall create a fixed deposit (“FD”) in favor of the Lender (or jointly with the Lender’s lien) amounting to 2.5 times the Loan amount (i.e., INR [________]).
+4.2 Lien Marking: The FD shall be lien-marked in favor of the Lender. All the relevant documents evidencing such lien marking shall be shared with the Lender.
+4.3 Right to Liquidate: In the event of default by the Borrower in payment of principal or interest, the Lender shall have the right to liquidate the FD, in part or in whole, to recover any outstanding amount (including accrued interest, penal interest, and related charges). Any surplus after recovering the outstanding amount shall be refunded to the Borrower.
+
+5. Guarantee
+5.1 Guarantee: The Guarantor unconditionally and irrevocably guarantees the punctual payment of all amounts due under this Agreement, including principal, interest, penal interest, and any other charges.
+5.2 Enforcement: In the event of a default by the Borrower, the Lender shall be entitled to call upon the Guarantor to pay the amounts due, failing which the Lender shall have the right to proceed against the Guarantor and/or the Borrower (and the FD security) in accordance with applicable law.
+
+6. Events of Default
+6.1 The following events shall constitute an “Event of Default” under this Agreement:
+Non-payment of any principal or interest installment on the due date(s) as per the Repayment Schedule;
+Failure to maintain the FD or any impairment of the FD security;
+Any breach by the Borrower or the Guarantor of the covenants, representations, or obligations under this Agreement;
+Any insolvency or bankruptcy proceedings initiated against the Borrower or the Guarantor.
+6.2 Consequences of Default:
+The Lender shall be entitled to declare the entire outstanding Loan and interest immediately due and payable;
+The Lender shall be entitled to liquidate the FD to recover the outstanding dues;
+The Lender may proceed against the Guarantor for recovery of all outstanding amounts.
+
+7. Representations & Warranties
+7.1 By the Borrower: The Borrower represents and warrants that:
+It is duly incorporated and validly existing under the laws of India, with all requisite corporate powers to execute and perform this Agreement;
+The borrowings contemplated herein do not violate any laws, regulations, or contracts applicable to the Borrower;
+All corporate approvals, if any, have been obtained to enter into this Agreement.
+7.2 By the Guarantor: The Guarantor represents and warrants that:
+He/She/It has the legal capacity and necessary authority to provide this guarantee;
+The execution of the guarantee does not conflict with any other legal obligations.
+
+8. Governing Law & Jurisdiction
+8.1 Governing Law: This Agreement shall be governed by and construed in accordance with the laws of India.
+8.2 Jurisdiction: The courts in Mumbai shall have exclusive jurisdiction to entertain and try any dispute arising out of or in relation to this Agreement.
+
+9. Miscellaneous
+9.1 Notices: All notices, demands, or other communications required or permitted hereunder shall be in writing and shall be deemed given when delivered personally, or sent by registered post or courier to the addresses of the Parties as specified above (or such other address as notified in writing).
+9.2 Assignment: The Borrower shall not assign its obligations under this Agreement without the prior written consent of the Lender. The Lender may assign its rights under this Agreement upon notice to the Borrower.
+9.3 Entire Agreement: This Agreement (including its Annexures) constitutes the entire agreement between the Parties in respect of its subject matter and supersedes all prior discussions or understandings.
+9.4 Amendments: Any amendment or modification to this Agreement shall be valid only if it is in writing and signed by all Parties.
+9.5 Severability: If any provision of this Agreement is held to be invalid or unenforceable by a court of competent jurisdiction, the remaining provisions shall remain in full force and effect.
+9.6 Counterparts: This Agreement may be executed in multiple counterparts, each of which shall be deemed an original, but all of which together shall constitute one and the same instrument.
+
+IN WITNESS WHEREOF
+The Parties hereto have executed this Agreement on the date first hereinabove mentioned.
+
+LENDER
+Signature: ______________________________
+Name: _________________________________
+Designation: ___________________________
+Date: __________________________________
+
+BORROWER (Company)
+Signature: ______________________________
+Name: _________________________________
+Designation: ___________________________
+Date: __________________________________
+
+GUARANTOR
+Signature: ______________________________
+Name: _________________________________
+Date: __________________________________
+
+WITNESS 1
+Signature: ______________________________
+Name: _________________________________
+Address: ______________________________
+
+WITNESS 2
+Signature: ______________________________
+Name: _________________________________
+Address: ______________________________

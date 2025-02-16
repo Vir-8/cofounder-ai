@@ -1,0 +1,80 @@
+LEAVE AND LICENSE AGREEMENT
+This Leave and License Agreement (“Agreement”) is made at [City] on this ___ day of __________ 20___ by and between:
+[Name of Licensor], aged about ___ years, residing at/ having its office at [Address], hereinafter referred to as the “Licensor” (which expression shall, unless repugnant to the context, mean and include his/her/its legal heirs, successors, administrators, assigns, etc.);
+AND
+[Name of Licensee / Company], a company incorporated under the Companies Act, 2013 (or previous Companies Act, 1956, as applicable), having its registered office at [Address], hereinafter referred to as the “Licensee” (which expression shall, unless repugnant to the context, mean and include its successors and permitted assigns).
+The Licensor and the Licensee are hereinafter collectively referred to as the “Parties” and individually as a “Party.”
+
+1. Licensed Premises
+1.1 Premises: The Licensor agrees to grant on leave and license basis to the Licensee, and the Licensee agrees to take on leave and license basis from the Licensor, the premises bearing [insert complete address and/or description of the Premises] admeasuring approximately [insert area in square feet] (“Licensed Premises”).
+1.2 Purpose: The Licensed Premises shall be used by the Licensee for the purpose of setting up an office. The Licensee shall not use the Licensed Premises for any purpose other than that expressly stated herein without the prior written consent of the Licensor.
+
+2. Term & Renewal
+2.1 Initial Term: The term of this Agreement shall be for a period of three (3) years, commencing from [start date] and expiring on [end date] (the “Term”), unless terminated earlier in accordance with the terms of this Agreement.
+2.2 Renewal: The Parties may mutually agree in writing to renew or extend this Agreement for such further period(s) and on such terms and conditions as may be mutually decided at the time of renewal.
+
+3. Lock-in Period
+3.1 Lock-in Period: There shall be a lock-in period of six (6) months (“Lock-in Period”), during which neither Party shall have the right to terminate this Agreement for convenience.
+3.2 Consequences of Early Termination: In the event the Licensee terminates this Agreement for convenience during the Lock-in Period, the Licensee shall be liable to pay the rent for the unexpired portion of the Lock-in Period as liquidated damages, without prejudice to any other rights or remedies available to the Licensor.
+
+4. License Fee & Escalation
+4.1 Monthly License Fee (Rent): The Licensee shall pay to the Licensor a monthly license fee of INR [___] (“License Fee”) in advance on or before the 05th  day of each calendar month.
+4.2 Annual Escalation: Commencing from the end of the first year of the Term, the License Fee shall stand increased by 5% over the immediately preceding year’s License Fee, and similarly, a further 5% increase shall apply at the end of each subsequent year.
+
+5. Security Deposit
+5.1 Amount: The Licensee shall deposit with the Licensor a sum of INR [___], equivalent to three (3) months’ License Fee, as a Security Deposit.
+5.2 Return of Security Deposit: The Security Deposit shall be refundable to the Licensee, without any interest, within [___] days from the date of expiry or earlier termination of this Agreement, subject to the Licensee handing over vacant and peaceful possession of the Licensed Premises in the same condition as it was (reasonable wear and tear excepted).
+
+6. Termination
+6.1 Termination for Convenience:
+After the Lock-in Period, either Party may terminate this Agreement by giving the other Party three (3) months’ prior written notice (“Notice Period”).
+If terminated by the Licensee, the Licensee shall pay License Fees up to the date of expiry of the Notice Period and vacate the Licensed Premises on or before such date.
+6.2 Termination for Cause:
+In the event that either Party commits a material breach of the terms of this Agreement, the non-breaching Party shall issue a written notice specifying the breach (“Cure Notice”).
+If the breaching Party fails to cure the breach within 15 (fifteen) days from receipt of the Cure Notice (or such longer period as may be reasonably agreed by the Parties), the non-breaching Party may terminate this Agreement with immediate effect.
+The Parties reserve all other rights and remedies under law in the event of a breach.
+
+7. Repairs & Maintenance
+7.1 Licensor’s Responsibilities (Major Repairs): The Licensor shall be responsible for carrying out and bearing the costs of any major structural repairs, including but not limited to:
+Roof repairs;
+Flooring repairs (if due to structural issues);
+Major plumbing work;
+Repairs to the air conditioning system 
+7.2 Licensee’s Responsibilities (Minor & Operational Repairs): The Licensee shall be responsible for routine maintenance, day-to-day wear and tear, and minor repairs within the Licensed Premises. Any damages caused by the Licensee’s misuse or negligence shall be promptly rectified by the Licensee at its own cost.
+
+8. Prohibition on Sub-Licensing / Assignment
+8.1 No Sub-licensing without Consent: The Licensee shall not assign, sub-license, or otherwise part with possession of the Licensed Premises or any portion thereof to any third party without the prior written consent of the Licensor.
+8.2 Any purported assignment or sub-license without compliance with this clause shall be void ab initio.
+
+9. Relationship Between the Parties
+9.1 It is expressly agreed that this Agreement creates a leave and license arrangement and that no tenancy or lease is intended to be created by this Agreement.
+9.2 The Licensee shall not claim any tenancy rights, or any other possessory rights, title, or interest in the Licensed Premises other than those granted under this Agreement.
+
+10. Governing Law & Jurisdiction
+10.1 Governing Law: This Agreement shall be governed by and construed in accordance with the laws of India.
+10.2 Jurisdiction: The courts in Mumbai shall have exclusive jurisdiction to entertain and try any dispute arising out of or in connection with this Agreement.
+
+11. Miscellaneous
+11.1 Entire Agreement: This Agreement constitutes the entire understanding between the Parties and supersedes all prior discussions, representations, or agreements, whether written or oral.
+11.2 Amendments: Any amendment or modification to this Agreement shall be valid only if recorded in writing and signed by both Parties.
+11.3 Severability: If any provision of this Agreement is held to be invalid or unenforceable, the remaining provisions shall remain in full force and effect.
+11.4 Stamp Duty & Registration: The Parties shall execute and register this Agreement (if so required under applicable law) with the appropriate authority, and the cost of stamp duty and registration fees shall be borne by [specify who bears the costs, or the percentage split].
+11.5 Notices: Any notice required to be given hereunder shall be given in writing and served personally or sent by registered post or courier to the addresses mentioned in this Agreement or to such other address as may be notified by either Party in writing.
+11.6 Force Majeure: Neither Party shall be liable for any failure to perform its obligations under this Agreement if such failure is due to events beyond its reasonable control, including acts of God, war, strikes, or governmental restrictions, provided that the Party affected by the force majeure event notifies the other Party promptly.
+
+IN WITNESS WHEREOF
+Both Parties, having fully understood the contents hereof, have set their respective hands on the date first hereinabove mentioned.
+
+LICENSOR
+Signature: __________________________________
+Name: ______________________________________
+Address: ____________________________________
+Date: _______________________________________
+
+LICENSEE
+Signature: __________________________________
+Name: ______________________________________
+Designation: _________________________________
+Company Stamp: _____________________________
+Date: _______________________________________
+

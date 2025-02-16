@@ -1,0 +1,80 @@
+CONSULTANCY AGREEMENT
+This Consultancy Agreement (“Agreement”) is made on this ___ day of __________ 20___ (“Effective Date”), by and between:
+[Company Name], a company incorporated under the laws of India, having its registered office at [Registered Address] (hereinafter referred to as the “Company”),
+AND
+[Consultant Name], an individual/a business entity having its principal place of business at [Address] (hereinafter referred to as the “Consultant”).
+The Company and the Consultant shall hereinafter be collectively referred to as the “Parties” and individually as a “Party.”
+
+1. Scope of Services
+1.1 Services: The Consultant agrees to provide the following services to the Company (“Services”):
+[Detail the specific consultancy services or scope of work here]
+1.2 Performance Standard: The Consultant shall perform the Services in a professional manner, using the degree of skill and care expected of similarly situated professionals.
+
+2. Term
+2.1 Duration: This Agreement shall commence on the Effective Date and continue for a period of one (1) year, unless terminated earlier in accordance with this Agreement.
+2.2 Renewal: The Agreement may be renewed or extended upon mutual written consent of the Parties, on such terms and conditions as may be agreed upon at the time of renewal.
+
+3. Fees & Payment
+3.1 Monthly Fee: As consideration for the Services, the Company shall pay the Consultant a fixed monthly fee of [Amount in INR] (“Consultancy Fee”).
+3.2 Invoicing & Payment Terms:
+The Consultant shall submit an invoice to the Company at the end of each month for Services rendered during that month.
+The Company shall make payment within [X] days of receiving a valid invoice, subject to any statutory deductions or withholding taxes as per applicable law.
+3.3 Taxes: The Consultant shall be responsible for payment of all applicable taxes (including GST, if any) and other statutory levies arising from the performance of Services under this Agreement.
+
+4. Independent Contractor Status
+4.1 The Consultant is engaged as an independent contractor. Nothing in this Agreement shall be construed to create an employer-employee relationship, partnership, or joint venture between the Consultant and the Company.
+4.2 The Consultant shall not be entitled to any benefits that an employee of the Company would otherwise receive, such as provident fund, gratuity, health insurance, paid leaves, or any other benefits.
+4.3 The Consultant shall have no authority to act on behalf of or bind the Company in any manner unless specifically authorized in writing.
+
+5. Non-Solicitation
+5.1 Non-Solicitation of Employees: During the term of this Agreement and for a period of [6/12 months – choose as appropriate] thereafter, the Consultant shall not, directly or indirectly, solicit or attempt to solicit, employ, or engage any employee of the Company without the prior written consent of the Company.
+5.2 Non-Solicitation of Clients: During the term of this Agreement and for a period of [6/12 months – choose as appropriate] thereafter, the Consultant shall not, directly or indirectly, solicit or attempt to solicit business from any client or customer of the Company in a manner that competes with the Company’s business.
+
+6. Confidentiality
+6.1 Definition: “Confidential Information” shall mean any and all information disclosed by the Company to the Consultant (whether in writing, orally, or otherwise) that is not generally known to the public, including but not limited to business plans, client lists, financial information, marketing strategies, trade secrets, and other proprietary information.
+6.2 Obligation of Confidentiality: The Consultant agrees to maintain the confidentiality of such Confidential Information and not to disclose it to any third party without the prior written consent of the Company. This obligation shall survive the termination of this Agreement.
+6.3 Exclusions: Confidential Information does not include information that:
+was already in the Consultant’s possession before receipt from the Company;
+is or becomes publicly available through no fault of the Consultant;
+is received from a third party with a legal right to disclose it; or
+is required to be disclosed by law or court order, provided the Consultant gives the Company prior notice of such disclosure.
+
+7. Intellectual Property Rights
+7.1 Ownership: All intellectual property rights in any deliverables, work product, or materials created by the Consultant in the course of providing the Services (“Work Product”) shall vest exclusively in the Company upon creation.
+7.2 Assignment: To the extent any such rights do not automatically vest, the Consultant hereby irrevocably assigns all right, title, and interest in such Work Product to the Company.
+7.3 Use of Company IP: The Consultant shall not use any of the Company’s trademarks, trade names, or other intellectual property for any purpose outside the scope of this Agreement without the prior written consent of the Company.
+
+8. Termination
+8.1 Termination by Notice: Either Party may terminate this Agreement by providing one (1) month’s written notice to the other Party.
+8.2 Immediate Termination: The Company may terminate this Agreement immediately by written notice if:
+The Consultant commits a material breach of this Agreement which is incapable of remedy or remains uncured for [X] days after receipt of notice;
+The Consultant engages in any misconduct, dishonesty, or fraud that adversely affects the Company;
+The Consultant is unable to perform the Services due to legal incapacity or other reasons beyond control.
+8.3 Effect of Termination: Upon termination, the Consultant shall cease performing the Services, and the Company shall pay any outstanding fees due (on a pro-rata basis for partially completed work) up to the effective date of termination. The Consultant shall return all Confidential Information and Company property within [X] days from the date of termination.
+
+9. Governing Law & Jurisdiction
+9.1 This Agreement shall be governed by and construed in accordance with the laws of India.
+9.2 The courts in Mumbai shall have exclusive jurisdiction over any dispute arising out of or in connection with this Agreement.
+
+10. Miscellaneous
+10.1 Entire Agreement: This Agreement constitutes the entire understanding between the Parties regarding the subject matter and supersedes any prior agreements, discussions, or communications, whether written or oral.
+10.2 Amendments: No amendment or modification to this Agreement shall be valid unless it is in writing and signed by both Parties.
+10.3 Severability: If any provision of this Agreement is held invalid or unenforceable, the remaining provisions shall remain in full force and effect.
+10.4 Notices: All notices under this Agreement shall be in writing and delivered to the addresses specified above (or such other address notified in writing). Notices shall be deemed given upon personal delivery, one day after dispatch by overnight courier, or three days after sending by registered post.
+10.5 Survival: The obligations pertaining to confidentiality, intellectual property, non-solicitation, and any other provisions intended to survive shall survive termination of this Agreement.
+10.6 Counterparts: This Agreement may be executed in counterparts, each of which shall be deemed an original, but all of which together shall constitute one and the same instrument.
+IN WITNESS WHEREOF
+The Parties hereto have caused this Agreement to be duly executed on the date first mentioned above.
+
+For [Company Name]
+Signature: __________________________
+Name: __________________________
+Title: __________________________
+Date: __________________________
+
+For [Consultant Name]
+Signature: __________________________
+Name: __________________________
+Title: __________________________
+Date: __________________________
+
