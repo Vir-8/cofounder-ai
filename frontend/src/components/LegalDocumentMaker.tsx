@@ -44,7 +44,7 @@ const LegalDocumentMaker: React.FC = () => {
     setSelectedTemplateId(id);
     if (id) {
       try {
-        const res = await fetch(`http://localhost:5000/template/${id}`);
+        const res = await fetch(`https://cofounder-ai.onrender.com/template/${id}`);
         if (!res.ok) throw new Error("Failed to fetch template");
         const data: Template = await res.json();
         setTemplateContent(data.locked_html);
@@ -65,7 +65,7 @@ const LegalDocumentMaker: React.FC = () => {
       setEditorContent(text);
       const cursorPos = text.length; // Simplified approach
       try {
-        const res = await fetch("http://localhost:5000/suggest", {
+        const res = await fetch("https://cofounder-ai.onrender.com/suggest", {
           method: "POST",
           headers: {
             "Content-Type": "application/json",
@@ -84,7 +84,7 @@ const LegalDocumentMaker: React.FC = () => {
   // Analyze the document via the backend.
   const handleAnalyzeDocument = async () => {
     try {
-      const res = await fetch("http://localhost:5000/analyze", {
+      const res = await fetch("https://cofounder-ai.onrender.com/analyze", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
@@ -110,7 +110,7 @@ const LegalDocumentMaker: React.FC = () => {
   // Generate a PDF via the backend.
   const handleGeneratePDF = async () => {
     try {
-      const res = await fetch("http://localhost:5000/generate-pdf", {
+      const res = await fetch("https://cofounder-ai.onrender.com/generate-pdf", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
@@ -119,7 +119,7 @@ const LegalDocumentMaker: React.FC = () => {
       });
       if (!res.ok) throw new Error("Failed to generate PDF");
       const data = await res.json();
-      setPdfUrl(`http://localhost:5000${data.url}`);
+      setPdfUrl(`https://cofounder-ai.onrender.com${data.url}`);
     } catch (error) {
       console.error("Error generating PDF", error);
     }
