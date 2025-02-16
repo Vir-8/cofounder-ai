@@ -29,7 +29,10 @@ const LegalDocumentMaker: React.FC = () => {
   useEffect(() => {
     const dummyTemplates = [
       { id: "nda", name: "Non-Disclosure Agreement" },
-      { id: "contract", name: "Contract Template" },
+      { id: "loan", name: "Loan Template" },
+      { id: "leave_and_license", name: "Leave and License Template" },
+      { id: "employment", name: "Employment Template" },
+      { id: "consultancy", name: "Consultancy Template" },
     ];
     setTemplates(dummyTemplates);
   }, []);
