@@ -3,6 +3,7 @@ import React, { useState } from "react";
 import { FileText, BarChart2, Calendar, Users } from "lucide-react";
 import SchedulingTaskManagement from "./SchedulingTaskManagement";
 import LegalDocumentMaker from "./LegalDocumentMaker";
+import Conferences from "./Conferences";
 
 // Dummy components for each feature
 
@@ -18,7 +19,7 @@ const BusinessStrategyAnalyzer: React.FC = () => (
     <p className="text-gray-300 mb-4">
       Provide your product description and the challenges you’re facing, and receive a market analysis along with strategic insights.
     </p>
-    <p className="text-gray-300">[Dummy analysis results]</p>
+    <p className="text-gray-300">[Coming soon]</p>
   </div>
 );
 
@@ -27,13 +28,7 @@ const SchedulingTaskManagementContent: React.FC = () => (
 );
 
 const NetworkHub: React.FC = () => (
-  <div className="p-6 bg-[#2E3238] rounded-lg shadow-lg">
-    <h2 className="text-2xl font-bold text-white mb-4">Network Hub</h2>
-    <p className="text-gray-300 mb-4">
-      Discover upcoming conferences, events, and networking opportunities tailored for your startup journey.
-    </p>
-    <p className="text-gray-300">[Dummy networking content]</p>
-  </div>
+  <Conferences />
 );
 
 const Dashboard: React.FC = () => {

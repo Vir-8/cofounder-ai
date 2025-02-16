@@ -43,8 +43,7 @@ const SchedulingTaskManagement: React.FC = () => {
   const [tasks, setTasks] = useState<Task[]>([
     { id: 1, text: "Respond to client emails", completed: false },
     { id: 2, text: "Draft product roadmap", completed: false },
-    { id: 3, text: "Plan team meeting", completed: false },
-    { id: 4, text: "Review legal documents", completed: false },
+    { id: 3, text: "Review legal documents", completed: false },
   ]);
   const [newTask, setNewTask] = useState("");
 

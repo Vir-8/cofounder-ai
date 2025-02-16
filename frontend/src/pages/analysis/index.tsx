@@ -8,15 +8,10 @@ import {
   PenTool,
   MessageSquare,
 } from "lucide-react";
-import Popup from "@/components/Popup";
-import Advertisements from "@/components/Advertisements";
-import Emails from "@/components/Emails";
-import Blogs from "@/components/Blogs";
-import InfluencerMarketing from "@/components/InfluencerMarketing";
-import PopupOptionSelector from "@/components/PopupOptionSelector";
-import Dashboard from "@/components/Advertisements";
+import Advertisements from "@/components/Dashboard";
+import Dashboard from "@/components/Dashboard";
 import ResourceLibrary from "@/components/ResourceLibrary";
-import ProgressTracker from "@/components/ProgressTracker";
+import Chatbar from "@/components/ChatBar";
 
 // Types for generated content
 interface GeneratedContent {
@@ -60,7 +55,7 @@ export default function EngagementPage() {
   });
 
   // Chatbar state (expanded/collapsed)
-  const [chatbarOpen, setChatbarOpen] = useState(false);
+  const [chatbarOpen, setChatbarOpen] = useState(true);
 
   useEffect(() => {
     const handleOutsideClick = (event: MouseEvent) => {
@@ -151,7 +146,6 @@ export default function EngagementPage() {
   const navItems = [
     { id: "advertisements", label: "Dashboard", icon: <FileText className="h-4 w-4" /> },
     { id: "emails", label: "Resource Library", icon: <Mail className="h-4 w-4" /> },
-    { id: "blogs", label: "Progress Tracker", icon: <PenTool className="h-4 w-4" /> },
   ];
 
   return (
@@ -164,41 +158,6 @@ export default function EngagementPage() {
         />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-
-      {/* OVERLAY POPUPS */}
-      {!done && (
-        <div className="fixed inset-0 z-50">
-          <div
-            className={`absolute inset-0 flex items-center justify-center transition-all duration-300 ${
-              showFirst ? "opacity-100 scale-100" : "opacity-0 scale-95 pointer-events-none"
-            }`}
-          >
-            <div className="bg-[#1c1f22] p-8 rounded-md shadow-2xl">
-              <Popup
-                onSubmit={handleSubmit}
-                companyDetails={companyDetails}
-                setCompanyDetails={setCompanyDetails}
-                loading={loading}
-                onClose={() => setShowFirst(false)}
-              />
-            </div>
-          </div>
-
-          <div
-            className={`absolute inset-0 flex items-center justify-center transition-all duration-300 ${
-              showSecond
-                ? "opacity-100 scale-100"
-                : fadeOutSecond
-                ? "opacity-0 scale-95 pointer-events-none"
-                : "opacity-0 scale-95 pointer-events-none"
-            }`}
-          >
-            <div className="bg-[#2E3238]/90 p-8 rounded-md shadow-2xl">
-              <PopupOptionSelector onSelect={handleOptionSelect} />
-            </div>
-          </div>
-        </div>
-      )}
 
       {/* MAIN LAYOUT: Two Columns */}
       <div className="flex h-screen bg-[#131619] text-white">
@@ -213,26 +172,6 @@ export default function EngagementPage() {
               </a>
             </div>
             <div className="flex gap-6">
-              <button
-                className={`px-4 py-2 rounded-md text-sm font-medium transition-colors ${
-                  activeTab === "content-generator"
-                    ? "bg-blue-600 text-white"
-                    : "bg-transparent hover:bg-[#2E3238] text-gray-200"
-                }`}
-                onClick={() => setActiveTab("content-generator")}
-              >
-                Content Generator
-              </button>
-              <button
-                className={`px-3 py-2 rounded-md text-sm font-medium transition-colors ${
-                  activeTab === "influencer-marketing"
-                    ? "bg-blue-600 text-white"
-                    : "bg-transparent hover:bg-[#2E3238] text-gray-200"
-                }`}
-                onClick={() => setActiveTab("influencer-marketing")}
-              >
-                Influencer Marketing
-              </button>
             </div>
           </nav>
 
@@ -281,13 +220,11 @@ export default function EngagementPage() {
                       <div className="flex mt-6">
                         {sidebarOption === "advertisements" && <Dashboard />}
                         {sidebarOption === "emails" && <ResourceLibrary />}
-                        {sidebarOption === "blogs" && <ProgressTracker />}
                       </div>
                     </section>
                   </div>
                 </div>
               )}
-              {activeTab === "influencer-marketing" && <InfluencerMarketing />}
             </main>
 
             {/* Footer fixed at bottom of left column */}
@@ -298,54 +235,7 @@ export default function EngagementPage() {
         </div>
 
         {/* Right Column: Chat Panel */}
-        <div className={`transition-all duration-300 ${chatbarOpen ? "w-96" : "w-16"} bg-[#1e2228] border-l border-gray-800 flex flex-col`}>
-          {chatbarOpen ? (
-            <>
-              <div className="flex-shrink-0 p-4 border-b border-gray-700 flex items-center justify-between">
-                <h2 className="text-lg font-semibold">Gemini Chatbot</h2>
-                <button onClick={() => setChatbarOpen(false)} className="text-gray-400 hover:text-white">
-                  X
-                </button>
-              </div>
-              <div className="flex-1 p-4 overflow-y-auto">
-                <p className="text-sm text-gray-300">
-                  Hello! I'm Gemini, your AI assistant. How can I help you today?
-                </p>
-                <div className="mt-4 space-y-3">
-                  <div>
-                    <p className="text-xs text-gray-400">You</p>
-                    <div className="bg-gray-700 p-2 rounded">
-                      <p className="text-sm">
-                        I'm looking for advice on bootstrapping my startup.
-                      </p>
-                    </div>
-                  </div>
-                  <div>
-                    <p className="text-xs text-gray-400">Gemini</p>
-                    <div className="bg-blue-600 p-2 rounded">
-                      <p className="text-sm">
-                        Try focusing on low-cost marketing strategies and building a community around your product.
-                      </p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div className="flex-shrink-0 p-4 border-t border-gray-700">
-                <input
-                  type="text"
-                  placeholder="Type your message..."
-                  className="w-full p-2 rounded bg-gray-800 text-gray-200 focus:outline-none focus:ring-2 focus:ring-blue-500"
-                />
-              </div>
-            </>
-          ) : (
-            <div className="flex h-full items-start justify-center pt-4">
-              <button onClick={() => setChatbarOpen(true)} className="text-gray-400 hover:text-white">
-                <MessageSquare className="h-6 w-6" />
-              </button>
-            </div>
-          )}
-        </div>
+        <Chatbar />
       </div>
     </>
   );
