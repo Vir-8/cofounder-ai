@@ -151,7 +151,7 @@ export default function EngagementPage() {
   return (
     <>
       <Head>
-        <title>AI Engagement Platform</title>
+        <title>Co-Founder AI</title>
         <meta
           name="description"
           content="Enhance audience engagement and conversions using our AI-driven platform."
