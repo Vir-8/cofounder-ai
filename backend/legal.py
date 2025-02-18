@@ -30,7 +30,7 @@ for directory in DIRS:
 EXTERNAL_TEMPLATE_FOLDER = BASE_DIR / 'legal_templates'
 
 # Configure Gemini API
-GEMINI_API_KEY = "AIzaSyBXJaqkRTDVuueYjH1R0WrsebbpgQBt0Lc"
+GEMINI_API_KEY = "gemini_key"
 genai.configure(api_key=GEMINI_API_KEY)
 
 GENERATION_CONFIG = {
